@@ -1,0 +1,19 @@
+{
+  "name": "hamsimple-calculator",
+  "version": "1.0.1",
+  "description": "A simple calculator that performs basic operations using Typescript, Node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamna Uraizee",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
